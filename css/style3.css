@@ -4,3 +4,7 @@ body {
     background-color: rgb(140, 240, 235);
     margin: 200px;
 }
+
+#title {
+    color: red;
+}
